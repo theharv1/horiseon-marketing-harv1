@@ -6,12 +6,12 @@
 <ol>
     <li>
         <h4>Unit Overview </h4>
-        <p>At the beginning of the week, the will be pushed. This will describe what concepts and technologies we will be tackeling for the week.</p>
+        <p>At the beginning of the week, a unit overview will be pushed. It will describe what concepts and technologies we will be tackeling for the week. Each week marks a new unit, and with it a new unit overview.</p>
     </li>
     <li>
         <h4>Homework </h4>
-        <p>After Monday's class each week, homework instructions will be pushed.</p>
-        <p>Homework is due Saturday of the following week after class\</p>
+        <p>After Monday's class each week, homework instructions will be pushed to this repo. Be sure to make a "git pull" request to pull in the latest content</p>
+        <p>Homework is due Saturday of the following week after class.</p>
     </li>
 </ol> 
 
