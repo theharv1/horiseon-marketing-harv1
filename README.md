@@ -12,6 +12,7 @@
         <h4>Homework </h4>
         <p>After Monday's class each week, homework instructions will be pushed to this repo. Be sure to make a "git pull" request to pull in the latest content</p>
         <p>Homework is due Saturday of the following week after class.</p>
+        <p>MT</p>
     </li>
 </ol> 
 
