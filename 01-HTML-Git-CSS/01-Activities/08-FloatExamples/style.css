@@ -24,6 +24,8 @@ aside {
   height: 400px;
   padding: 10px;
   border: 1px solid white;
+  display: inline-block;
+  float: left;
 }
 
 main {
@@ -32,6 +34,8 @@ main {
   height: 400px;
   padding: 10px;
   border: 1px solid white;
+  float: right;
+  display: inline-block;
 }
 
 footer {
@@ -40,4 +44,10 @@ footer {
   height: 100px;
   padding: 10px;
   border: 1px solid white;
+}
+
+.clearfix::after {
+  content: " ";
+  display: block;
+  clear: both;
 }
