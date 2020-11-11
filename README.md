@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-A website that marketing solutions.
+A website that offers marketing solution and optimization.
 
 ## Built With
 * CSS
